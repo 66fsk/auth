@@ -1,0 +1,28 @@
+{
+    "name": "zgxv/auth",
+    "description": "this is authentication and authorization for thinkphp5",
+    "type": "project",
+    "keywords": [
+        "thinkphp5",
+        "authentication",
+        "authorization"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "gaoxiang_z",
+            "email": "gaoxiang_z@gmail.com"
+        }
+    ],
+    "require": {
+        "topthink/think-helper":"1.0.*"
+
+    },
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "rye\\auth\\": "src"
+        }
+    },
+    "require": {}
+}
