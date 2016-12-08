@@ -1,5 +1,5 @@
 {
-    "name": "zgxv/auth",
+    "name": "auth",
     "description": "this is authentication and authorization for thinkphp5",
     "type": "project",
     "keywords": [
